@@ -1,3 +1,6 @@
 webcam_analysis/src/shape_predictor_68_face_landmarks.dat
 webcam_analysis/src/webcam_data.csv
 **/node_modules/
+venv/
+osx/**
+render/**
