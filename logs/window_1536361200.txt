@@ -1,0 +1,73 @@
+1536381614 ulogme_osx
+1536381624 Google Chrome :: https://github.com/karpathy/ulogme
+1536381628 Terminal :: ulogme   sleep   ulogme.sh   80 24
+1536381630 Google Chrome :: https://github.com/karpathy/ulogme
+1536381686 System Preferences
+1536381688 System Preferences :: System Preferences
+1536381704 System Preferences :: Loading Security & Privacy 
+1536381706 System Preferences :: Security & Privacy
+1536381754 Terminal :: ulogme   sleep   ulogme.sh   80 24
+1536381767 Google Chrome :: https://github.com/karpathy/ulogme
+1536381775 Atom :: Project   ~/Documents/School Work/Imperial/SeenIt
+1536381779 Atom :: File
+1536381781 Atom :: Reopen Project
+1536381783 Atom :: File
+1536381787 Atom :: Open
+1536381791 Atom :: location menu
+1536381793 Atom :: Open
+1536381798 Atom
+1536381804 Atom :: Project   ~/Documents/School Work/Imperial/SeenIt
+1536381805 Atom :: ~/Documents/Projects/FBhack/fbhackathon2018
+1536381811 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381820 Atom :: ~/Documents/Projects/FBhack/fbhackathon2018
+1536381821 Atom
+1536381824 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381827 Atom :: ~/Documents/Projects/FBhack/fbhackathon2018
+1536381829 Atom
+1536381831 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381839 Google Chrome :: https://github.com/karpathy/ulogme
+1536381850 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381853 Atom
+1536381855 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381861 Atom :: test   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381863 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381865 Atom :: test   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381867 Atom
+1536381869 Atom :: test   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381871 Atom :: test.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536381894 Terminal :: https://github.com/karpathy/ulogme
+1536381895 Terminal :: ulogme   sleep   ulogme.sh   80 24
+1536381926 Terminal :: https://github.com/karpathy/ulogme
+1536381927 Terminal :: ulogme   sleep   ulogme.sh   80 24
+1536383925 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/ulogme
+1536383931 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536383933 Atom :: export_events.py.bak   ~/Documents/Projects/FBhack/ulogme
+1536383939 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/ulogme
+1536383943 Atom :: test.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536383985 Terminal :: ulogme   sleep   ulogme.sh   85 24
+1536387996 Spotify :: Spotify
+1536387998 Spotify :: David Archuleta - Numb
+1536388002 Spotify :: P!nk - Beautiful Trauma
+1536388008 Spotify :: Spotify
+1536388010 Spotify :: P!nk - Beautiful Trauma
+1536388020 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536388101 Atom :: keyfreq_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388103 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536388128 Spotify :: David Archuleta - Crush
+1536388132 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536388135 Spotify :: Spotify
+1536388137 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388150 Spotify :: Spotify
+1536388164 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388173 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388856 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388858 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388860 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388866 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388869 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388877 Terminal :: local   -bash   80 24
+1536388885 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388886 Terminal :: local   -bash   80 24
+1536388893 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388920 Terminal :: local   -bash   80 24
+1536388921 Terminal :: ulogme   sleep   ulogme.sh   99 24
