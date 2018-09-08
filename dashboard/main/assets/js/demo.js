@@ -123,10 +123,11 @@ demo = {
         Chartist.Pie('#chartPreferences', dataPreferences, optionsPreferences);
 
         Chartist.Pie('#chartPreferences', {
-          labels: ['62%','32%','6%'],
-          series: [62, 32, 6]
+          labels: ['65%','29%','6%'],
+          series: [65, 29, 6]
         });
     },
+
 
     initChartist: function(){
 
@@ -217,8 +218,8 @@ demo = {
         Chartist.Pie('#chartPreferences', dataPreferences, optionsPreferences);
 
         Chartist.Pie('#chartPreferences', {
-          labels: ['62%','32%','6%'],
-          series: [62, 32, 6]
+          labels: ['65%','29%','6%'],
+          series: [65, 29, 6]
         });
     },
 

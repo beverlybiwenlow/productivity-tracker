@@ -89,7 +89,10 @@ def get_eyes(shape, rgb_image):
     rightEyeHull = cv2.convexHull(rightEye)
     cv2.drawContours(rgb_image, [leftEyeHull], -1, (0, 255, 0), 1)
     cv2.drawContours(rgb_image, [rightEyeHull], -1, (0, 255, 0), 1)
-
+    cv2.putText(rgb_image, 'Eye Aspect Ratio: {}'.format(
+        ear), (20, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 0), thickness=2)
+    cv2.putText(rgb_image, 'Eye Open: {}'.format(
+        ear > EYE_AR_THRESH), (20, 70), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 0), thickness=2)
     if ear < EYE_AR_THRESH:
         # eyes closed
         return 0.
@@ -101,7 +104,7 @@ def get_eyes(shape, rgb_image):
 def main():
     showEmotions = True
     showFaceDirection = True
-    viz = False
+    viz = True
 
     # return
     cap = cv2.VideoCapture(0)
@@ -184,7 +187,7 @@ def main():
                     if normed_dist > threshold1:
                         cur_gaze[0] += 1
                         if viz:
-                            cv2.line(rgb_image, p1, p2, (0, 255, 0), 10)
+                            cv2.line(rgb_image, p1, p2, (0, 0, 255), 10)
                     elif normed_dist > threshold2:
                         cur_gaze[1] += 1
                         if viz:
@@ -192,7 +195,7 @@ def main():
                     else:
                         cur_gaze[2] += 1
                         if viz:
-                            cv2.line(rgb_image, p1, p2, (255, 0, 0), 2)
+                            cv2.line(rgb_image, p1, p2, (0, 255, 0), 2)
 
                     # get eyes
                     cur_eyes += get_eyes(shape, rgb_image)
