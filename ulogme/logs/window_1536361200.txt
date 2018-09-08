@@ -549,3 +549,218 @@
 1536429588 Google Chrome :: https://web.whatsapp.com/
 1536429593 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
 1536429594 Terminal :: ulogme   -bash   108 36
+1536429622 Terminal :: ulogme   git-remote-https   git push origin master   108 36
+1536429632 Terminal :: ulogme   -bash   108 36
+1536430236 loginwindow
+1536433333 Terminal :: ulogme   -bash   108 36
+1536433347 Google Chrome :: https://web.whatsapp.com/
+1536433419 Google Chrome :: https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html
+1536433421 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536433425 Google Chrome :: https://www.pythonforbeginners.com/error-handling/python-try-and-except
+1536433457 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536433557 Google Chrome :: https://www.pythonforbeginners.com/error-handling/python-try-and-except
+1536433921 loginwindow
+1536434008 Google Chrome :: chrome://newtab/
+1536434015 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536434023 Google Chrome :: https://www.google.com.sg/search?q=atom+plugin+development&rlz=1C5CHFA_enSG730SG730&oq=atom+pl&aqs=chrome.0.69i59j69i60j0j69i57j69i60l2.2694j0j1&sourceid=chrome&ie=UTF-8
+1536434035 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536434073 Google Chrome :: chrome://newtab/
+1536434095 Google Chrome :: https://www.google.com.sg/search?q=activate+power+mode+atom&rlz=1C5CHFA_enSG730SG730&oq=activate+power+mode&aqs=chrome.0.0j69i57j0l4.11837j0j1&sourceid=chrome&ie=UTF-8
+1536434097 Google Chrome :: https://atom.io/packages/activate-power-mode
+1536434189 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki
+1536434197 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki/Canvas-effects
+1536434311 Google Chrome :: https://mail.google.com/mail/u/0/#inbox
+1536434313 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki/Canvas-effects
+1536434343 Google Chrome :: https://github.com/codeinthedark/editor
+1536434351 Google Chrome :: chrome://newtab/
+1536434361 Google Chrome :: https://www.google.com.sg/search?q=atom+plugin+animation&rlz=1C5CHFA_enSG730SG730&oq=atom+plugin+animation&aqs=chrome..69i57.9850j0j1&sourceid=chrome&ie=UTF-8
+1536434379 Google Chrome :: https://www.youtube.com/watch?v=MjH868sYPu4
+1536434415 Google Chrome :: https://github.com/codeinthedark/editor
+1536434417 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki/Canvas-effects
+1536434435 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki
+1536434439 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki/Flow
+1536434451 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki
+1536434453 Google Chrome :: chrome://newtab/
+1536434459 Google Chrome :: https://www.google.com.sg/search?q=canvas+effect+atom&rlz=1C5CHFA_enSG730SG730&oq=canvas+effect+atom&aqs=chrome..69i57.4844j0j1&sourceid=chrome&ie=UTF-8
+1536434473 Google Chrome :: https://github.com/codeinthedark/editor
+1536434475 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536434479 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/wiki
+1536434483 Google Chrome :: https://github.com/JoelBesada/activate-power-mode
+1536434499 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/styles
+1536434503 Google Chrome :: https://github.com/JoelBesada/activate-power-mode
+1536434507 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/menus
+1536434509 Google Chrome :: https://github.com/JoelBesada/activate-power-mode
+1536434513 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib
+1536434523 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536434571 Google Chrome :: https://www.pythonforbeginners.com/error-handling/python-try-and-except
+1536434573 Google Chrome :: https://stackoverflow.com/questions/34283178/typeerror-a-bytes-like-object-is-required-not-str-in-python-and-csv
+1536434575 Google Chrome :: https://stackabuse.com/reading-and-writing-csv-files-in-python/
+1536434579 Google Chrome :: https://stackoverflow.com/questions/2132718/best-way-to-handle-list-indexmight-not-exist-in-python
+1536434581 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536434595 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib
+1536434675 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/effect
+1536434677 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/blob/master/lib/effect/particles.coffee
+1536434695 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/effect
+1536434697 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/blob/master/lib/effect/default.coffee
+1536434703 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/effect
+1536434705 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib
+1536434707 Google Chrome :: https://github.com/codeinthedark/editor
+1536434711 Google Chrome :: https://www.google.com.sg/search?q=canvas+effect+atom&rlz=1C5CHFA_enSG730SG730&oq=canvas+effect+atom&aqs=chrome..69i57.4844j0j1&sourceid=chrome&ie=UTF-8
+1536434715 Google Chrome :: http://www.growingwiththeweb.com/2012/10/creating-trail-effect-with-canvas.html
+1536434717 Google Chrome :: https://www.growingwiththeweb.com/2012/10/creating-trail-effect-with-canvas.html
+1536434731 Google Chrome :: https://www.google.com.sg/search?q=canvas+effect+atom&rlz=1C5CHFA_enSG730SG730&oq=canvas+effect+atom&aqs=chrome..69i57.4844j0j1&sourceid=chrome&ie=UTF-8
+1536434755 Google Chrome :: https://github.com/codeinthedark/editor
+1536434763 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib
+1536434785 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/flow
+1536434789 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/blob/master/lib/flow/default.coffee
+1536434793 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/flow
+1536434795 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/blob/master/lib/flow/delete.coffee
+1536434801 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/flow
+1536434803 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/blob/master/lib/flow/user-file.coffee
+1536434807 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib
+1536434835 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/blob/master/lib/api.coffee
+1536434839 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib
+1536434841 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/effect
+1536434845 Google Chrome :: https://www.google.com.sg/search?q=canvas+effect+atom&rlz=1C5CHFA_enSG730SG730&oq=canvas+effect+atom&aqs=chrome..69i57.4844j0j1&sourceid=chrome&ie=UTF-8
+1536434855 Google Chrome :: https://github.com/codeinthedark/editor
+1536434857 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/effect
+1536434859 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536434881 Google Chrome :: https://www.google.com.sg/search?q=atom+plugin+animation&rlz=1C5CHFA_enSG730SG730&oq=atom+plugin+animation&aqs=chrome.0.69i59.3953j0j4&sourceid=chrome&ie=UTF-8
+1536434889 Google Chrome :: https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:animation
+1536434897 Google Chrome :: https://atom.io/packages/editor-background
+1536434915 Google Chrome :: https://github.com/camel-chased/editor-background
+1536434923 Google Chrome :: https://camo.githubusercontent.com/4f3e9146611cf9446acc73ed2bec92151f1dc7de/687474703a2f2f6e6575726f6e65742e69743a383038302f656469746f722d6261636b67726f756e642f65625f6461726b2d372e6a7067
+1536434927 Google Chrome :: https://github.com/camel-chased/editor-background
+1536434939 Google Chrome :: https://camo.githubusercontent.com/0defc48487158570b27ced72178248937aa7a4db/687474703a2f2f6e6575726f6e65742e69743a383038302f656469746f722d6261636b67726f756e642f65625f6c696768742d322e6a7067
+1536434945 Google Chrome :: https://github.com/camel-chased/editor-background
+1536434955 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536434957 Atom :: Find
+1536434969 Atom ::  
+1536434972 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536434973 Google Chrome :: https://github.com/camel-chased/editor-background
+1536434975 Google Chrome :: https://github.com/JoelBesada/activate-power-mode/tree/master/lib/effect
+1536434977 Google Chrome :: https://www.google.com.sg/search?q=canvas+effect+atom&rlz=1C5CHFA_enSG730SG730&oq=canvas+effect+atom&aqs=chrome..69i57.4844j0j1&sourceid=chrome&ie=UTF-8
+1536434983 Google Chrome :: https://www.google.com.sg/search?q=add+atom+packages&rlz=1C5CHFA_enSG730SG730&oq=add+atom+&aqs=chrome.4.0j69i57j0l4.4345j0j9&sourceid=chrome&ie=UTF-8
+1536434985 Google Chrome :: https://flight-manual.atom.io/using-atom/sections/atom-packages/
+1536435024 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435033 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435042 Atom :: Help
+1536435045 Atom
+1536435047 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435058 Google Chrome :: https://flight-manual.atom.io/using-atom/sections/atom-packages/
+1536435071 Google Chrome :: chrome://settings/
+1536435073 Google Chrome :: https://flight-manual.atom.io/using-atom/sections/atom-packages/
+1536435075 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435077 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435107 Google Chrome :: https://www.neuronet.pl/
+1536435118 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435133 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536435163 Atom :: ~/.atom/packages/editor-background
+1536435168 Atom :: Project   ~/.atom/packages/editor-background
+1536435169 Atom :: bg-noise.png   ~/.atom/packages/editor-background
+1536435172 Atom :: Project   ~/.atom/packages/editor-background
+1536435173 Atom :: hue.png   ~/.atom/packages/editor-background
+1536435175 Atom :: Project   ~/.atom/packages/editor-background
+1536435177 Atom :: saturation.png   ~/.atom/packages/editor-background
+1536435179 Atom :: Project   ~/.atom/packages/editor-background
+1536435181 Atom :: editor-background.cson   ~/.atom/packages/editor-background
+1536435183 Atom :: ~/.atom/packages/editor-background
+1536435185 Atom :: Project   ~/.atom/packages/editor-background
+1536435187 Atom :: editor-background.cson   ~/.atom/packages/editor-background
+1536435189 Atom :: ~/.atom/packages/editor-background
+1536435197 Atom :: Project   ~/.atom/packages/editor-background
+1536435199 Atom :: editor-background.less   ~/.atom/packages/editor-background
+1536435201 Atom :: Project   ~/.atom/packages/editor-background
+1536435217 Atom :: LICENSE   ~/.atom/packages/editor-background
+1536435219 Atom :: ~/.atom/packages/editor-background
+1536435221 Atom :: LICENSE.md   ~/.atom/packages/editor-background
+1536435223 Atom :: package.json   ~/.atom/packages/editor-background
+1536435227 Atom :: ~/.atom/packages/editor-background
+1536435229 Atom :: README.md   ~/.atom/packages/editor-background
+1536435239 Atom :: ~/.atom/packages/editor-background
+1536435261 Google Chrome :: https://atom.io/packages/editor-background
+1536435263 Google Chrome :: https://www.google.com.sg/search?q=atom+plugin+animation&rlz=1C5CHFA_enSG730SG730&oq=atom+plugin+animation&aqs=chrome.0.69i59.3953j0j4&sourceid=chrome&ie=UTF-8
+1536435265 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536435275 Atom :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536435277 Atom :: ~/.atom/packages/editor-background
+1536435287 Atom :: Project   ~/.atom/packages/editor-background
+1536435299 Atom :: run.coffee   ~/.atom/packages/editor-background
+1536435305 Atom :: Project   ~/.atom/packages/editor-background
+1536435307 Atom :: package.json   ~/.atom/packages/editor-background
+1536435337 Atom :: run.coffee   ~/.atom/packages/editor-background
+1536435339 Atom :: animation.coffee   ~/.atom/packages/editor-background
+1536435353 Atom :: run.coffee   ~/.atom/packages/editor-background
+1536435360 Atom :: Project   ~/.atom/packages/editor-background
+1536435397 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536435416 Atom :: Project   ~/.atom/packages/editor-background
+1536435433 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536435710 Atom :: Project   ~/.atom/packages/editor-background
+1536435711 Atom :: config.coffee   ~/.atom/packages/editor-background
+1536435723 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536435725 Atom :: Project   ~/.atom/packages/editor-background
+1536435730 Atom :: formats.js   ~/.atom/packages/editor-background
+1536435740 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536435750 Google Chrome :: https://flight-manual.atom.io/using-atom/sections/atom-packages/
+1536435761 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536435763 Google Chrome :: https://flight-manual.atom.io/using-atom/sections/atom-packages/
+1536435771 Google Chrome :: https://atom.io/packages/editor-background
+1536435793 Google Chrome :: https://github.com/camel-chased/editor-background
+1536435827 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536435832 Atom :: Project   ~/.atom/packages/editor-background
+1536435876 Atom :: editor-background.less   ~/.atom/packages/editor-background
+1536435921 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536435932 Atom :: Project   ~/.atom/packages/editor-background
+1536435937 Atom :: bg.jpg   ~/.atom/packages/editor-background
+1536435946 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536436339 loginwindow
+1536438295 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536438344 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438349 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438366 Google Chrome :: https://github.com/camel-chased/editor-background
+1536438367 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438371 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438419 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438477 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438519 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438539 Atom :: https://github.com/camel-chased/editor-background
+1536438539 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438549 Atom :: Atom
+1536438552 Atom :: ~/.atom/packages/activate-power-mode
+1536438570 Atom :: editor-background.coffee   ~/.atom/packages/editor-background
+1536438577 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438583 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438621 Atom :: Settings   ~/Documents/Projects/FBhack/fbhackathon2018
+1536438625 Atom :: ~/.atom/packages/activate-power-mode
+1536438627 Atom :: Project   ~/.atom/packages/activate-power-mode
+1536438719 Telegram :: Telegram
+1536438799 Atom :: Project   ~/.atom/packages/activate-power-mode
+1536438958 Atom :: activate-power-mode.less   ~/.atom/packages/activate-power-mode
+1536438979 Telegram :: Telegram
+1536439155 Atom :: activate-power-mode.less   ~/.atom/packages/activate-power-mode
+1536439237 Google Chrome :: chrome://newtab/
+1536439239 Google Chrome :: https://www.google.com.sg/search?q=%234EFFA0&rlz=1C5CHFA_enSG730SG730&oq=%234EFFA0&aqs=chrome..69i57.370j0j1&sourceid=chrome&ie=UTF-8
+1536439249 Atom :: https://www.google.com.sg/search?q=%234EFFA0&rlz=1C5CHFA_enSG730SG730&oq=%234EFFA0&aqs=chrome..69i57.370j0j1&sourceid=chrome&ie=UTF-8
+1536439249 Atom :: activate-power-mode.less   ~/.atom/packages/activate-power-mode
+1536439284 Google Chrome :: https://www.google.com.sg/search?q=%234EFFA0&rlz=1C5CHFA_enSG730SG730&oq=%234EFFA0&aqs=chrome..69i57.370j0j1&sourceid=chrome&ie=UTF-8
+1536439287 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536439301 Atom :: activate-power-mode.less   ~/.atom/packages/activate-power-mode
+1536439500 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536439501 Archive Utility :: Archive Utility
+1536439505 Atom :: activate-power-mode.less   ~/.atom/packages/activate-power-mode
+1536439523 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536439529 Telegram :: Telegram
+1536439555 Google Chrome :: https://blog.github.com/2016-08-19-building-your-first-atom-plugin/
+1536439576 Finder :: ulogme
+1536439583 Finder :: webcam_analysis
+1536439588 Finder :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536439589 Finder :: src
+1536439591 ulogme_osx
+1536439597 Finder :: src
+1536439618 Terminal :: ulogme   -bash   108 36
+1536439621 Terminal :: fbhackathon2018   -bash   108 36
+1536439635 Terminal :: webcam_analysis   -bash   108 36
+1536439658 Finder :: src
+1536439661 Terminal :: webcam_analysis   -bash   108 36
+1536439663 Terminal :: src   -bash   108 36
+1536439723 Terminal :: webcam_analysis   -bash   108 36
+1536439725 Terminal :: fbhackathon2018   -bash   108 36
