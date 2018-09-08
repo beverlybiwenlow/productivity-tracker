@@ -1,0 +1,284 @@
+1536383925 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/ulogme
+1536383931 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536383933 Atom :: export_events.py.bak   ~/Documents/Projects/FBhack/ulogme
+1536383939 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/ulogme
+1536383943 Atom :: test.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536383985 Terminal :: ulogme   sleep   ulogme.sh   85 24
+1536387996 Spotify :: Spotify
+1536387998 Spotify :: David Archuleta - Numb
+1536388002 Spotify :: P!nk - Beautiful Trauma
+1536388008 Spotify :: Spotify
+1536388010 Spotify :: P!nk - Beautiful Trauma
+1536388020 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536388101 Atom :: keyfreq_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388103 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536388128 Spotify :: David Archuleta - Crush
+1536388132 Atom :: Project   ~/Documents/Projects/FBhack/ulogme
+1536388135 Spotify :: Spotify
+1536388137 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388150 Spotify :: Spotify
+1536388164 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388173 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388856 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388858 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388860 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388866 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388869 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388877 Terminal :: local   -bash   80 24
+1536388885 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/ulogme
+1536388886 Terminal :: local   -bash   80 24
+1536388893 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536388920 Terminal :: local   -bash   80 24
+1536388921 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536393654 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536393670 Google Chrome :: https://stackoverflow.com/questions/8470547/git-commit-a-untracked-files
+1536393672 Google Chrome :: chrome://newtab/
+1536393686 Google Chrome :: https://www.google.com.sg/search?q=unix+time&rlz=1C5CHFA_enSG730SG730&oq=unix+time&aqs=chrome..69i57j0l5.1803j0j1&sourceid=chrome&ie=UTF-8
+1536393702 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536393712 Google Chrome :: https://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another
+1536393726 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536393757 Atom :: keyfreq_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536393770 Atom :: run_ulogme_osx.sh   ~/Documents/Projects/FBhack/fbhackathon2018
+1536393787 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536393788 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394097 Atom :: https://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another
+1536394098 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394100 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394102 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394108 Atom :: run_ulogme_osx.sh   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394110 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394126 Google Chrome :: chrome://newtab/
+1536394134 Google Chrome :: https://www.google.com.sg/search?q=spotify+detect+song&rlz=1C5CHFA_enSG730SG730&oq=spotify+detect+song+&aqs=chrome..69i57j0l4.6131j0j1&sourceid=chrome&ie=UTF-8
+1536394140 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=lYOTW4CUCpqavQSX1aSIBA&q=spotify+detect+song+change&oq=spotify+detect+song+change&gs_l=psy-ab.3..33i22i29i30k1l3.411.3951.0.4094.13.11.2.0.0.0.106.778.9j1.10.0....0...1c.1.64.psy-ab..1.8.598...0i22i30k1j33i160k1.0.w2s_e1skJ4M
+1536394152 Google Chrome :: https://stackoverflow.com/questions/48760545/how-to-know-when-the-user-changes-the-song-with-the-spotify-api
+1536394206 Google Chrome :: https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
+1536394226 Google Chrome :: https://stackoverflow.com/questions/48760545/how-to-know-when-the-user-changes-the-song-with-the-spotify-api
+1536394240 Google Chrome :: https://api.spotify.com/v1/me/player/currently-playing
+1536394246 Google Chrome :: https://api.spotify.com/
+1536394258 Google Chrome :: https://developer.spotify.com/
+1536394280 Google Chrome :: https://developer.spotify.com/documentation/
+1536394286 Google Chrome :: https://developer.spotify.com/documentation/web-api/
+1536394374 Google Chrome :: https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
+1536394422 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536394432 Google Chrome :: https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#listening-through-the-sdk
+1536394442 Google Chrome :: https://stackoverflow.com/questions/48760545/how-to-know-when-the-user-changes-the-song-with-the-spotify-api
+1536394446 Google Chrome :: https://stackoverflow.com/questions/1683531/how-to-import-existing-git-repository-into-another
+1536394454 Google Chrome :: https://www.google.com.sg/search?q=spotify+listener+to+change+in+song&rlz=1C5CHFA_enSG730SG730&oq=spotify+listener+to+change+in+song&aqs=chrome..69i57.5947j0j4&sourceid=chrome&ie=UTF-8
+1536394462 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=1YSTW7CaA4nOvgT_9b-4Dg&q=spotify+listener+to+change+in+song+developer&oq=spotify+listener+to+change+in+song+developer&gs_l=psy-ab.3...4586.5887.0.6090.10.10.0.0.0.0.133.873.6j4.10.0....0...1c.1.64.psy-ab..0.9.818...33i160k1j33i21k1j33i13i21k1.0.7lCpAT_58kE
+1536394482 Google Chrome :: https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#listening-through-the-sdk
+1536394484 Google Chrome :: https://developer.spotify.com/documentation/web-api/
+1536394490 Google Chrome :: https://developer.spotify.com/documentation/web-api/libraries/
+1536394510 Google Chrome :: https://developer.spotify.com/documentation/web-api/guides/
+1536394512 Google Chrome :: https://developer.spotify.com/documentation/web-api/quick-start/
+1536394536 Telegram :: Telegram
+1536394539 Google Chrome :: https://web.whatsapp.com/
+1536394540 Google Chrome :: https://developer.spotify.com/console/get-recently-played/?type=track&limit=30&after=&before=
+1536394584 Google Chrome :: https://accounts.spotify.com/en/authorize?response_type=token&redirect_uri=https:%2F%2Fdeveloper.spotify.com%2Fcallback&client_id=774b29d4f13844c495f206cafdad9c86&scope=user-read-recently-played&state=aqdgpq
+1536394586 Google Chrome :: https://accounts.spotify.com/en/login?continue=https:%2F%2Faccounts.spotify.com%2Fen%2Fauthorize%3Fresponse_type%3Dtoken%26redirect_uri%3Dhttps:%252F%252Fdeveloper.spotify.com%252Fcallback%26client_id%3D774b29d4f13844c495f206cafdad9c86%26scope%3Duser-read-recently-played%26state%3Daqdgpq
+1536394588 Google Chrome :: https://www.facebook.com/v2.3/dialog/oauth?client_id=174829003346&state=AQBy5HXG-A3y0UuKA1VJx_Vxvx3fGs_ltAJOc_WrjTtcMvBfYRSB1Y1ibbnE-L-9d8P_aqieZV7ZWOs-U7pCIdLWFPrIxGOVVn3oWcanl8KLsvPCgxj2ezDcSX516Aqvqbnl&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Fapi%2Ffacebook%2Foauth%2Faccess_token
+1536394592 Google Chrome :: https://accounts.spotify.com/en/authorize?response_type=token&redirect_uri=https:%2F%2Fdeveloper.spotify.com%2Fcallback&client_id=774b29d4f13844c495f206cafdad9c86&scope=user-read-recently-played&state=aqdgpq
+1536394594 Google Chrome :: https://developer.spotify.com/console/get-recently-played/?type=track&limit=30&after=&before=
+1536394656 Google Chrome :: https://developer.spotify.com/console/player/
+1536394672 Google Chrome :: https://developer.spotify.com/console/get-user-player/
+1536394704 Google Chrome :: https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#listening-through-the-sdk
+1536394706 Google Chrome :: https://developer.spotify.com/documentation/web-api/quick-start/
+1536394712 Google Chrome :: https://developer.spotify.com/discover/
+1536394719 Google Chrome :: https://developer.spotify.com/
+1536394720 Google Chrome :: https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#listening-through-the-sdk
+1536394722 Google Chrome :: https://developer.spotify.com/
+1536394726 Google Chrome :: https://developer.spotify.com/documentation/
+1536394730 Google Chrome :: https://developer.spotify.com/documentation/web-api/
+1536394738 Google Chrome :: https://stackoverflow.com/questions/48760545/how-to-know-when-the-user-changes-the-song-with-the-spotify-api
+1536394740 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=1YSTW7CaA4nOvgT_9b-4Dg&q=spotify+listener+to+change+in+song+developer&oq=spotify+listener+to+change+in+song+developer&gs_l=psy-ab.3...4586.5887.0.6090.10.10.0.0.0.0.133.873.6j4.10.0....0...1c.1.64.psy-ab..0.9.818...33i160k1j33i21k1j33i13i21k1.0.7lCpAT_58kE
+1536394742 Google Chrome :: https://developer.spotify.com/documentation/web-api/
+1536394748 Google Chrome :: https://developer.spotify.com/console/get-user-player/
+1536394772 Google Chrome :: https://accounts.spotify.com/en/authorize?response_type=token&redirect_uri=https:%2F%2Fdeveloper.spotify.com%2Fcallback&client_id=774b29d4f13844c495f206cafdad9c86&scope=user-read-playback-state%20user-read-private%20user-library-read%20user-read-email%20user-top-read%20playlist-modify-public%20user-follow-read%20user-read-currently-playing%20user-read-recently-played%20user-modify-playback-state%20user-follow-modify%20playlist-modify-private%20playlist-read-collaborative%20user-library-modify%20playlist-read-private%20user-read-birthdate&state=c78tk
+1536394774 Google Chrome :: https://developer.spotify.com/console/get-user-player/?market=
+1536394823 Spotify :: Spotify
+1536394833 Google Chrome :: https://developer.spotify.com/console/get-user-player/?market=
+1536394912 Google Chrome :: https://developer.spotify.com/console/get-user-player/
+1536394918 Google Chrome :: https://developer.spotify.com/console/player/
+1536394922 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536394994 Google Chrome :: https://stackoverflow.com/questions/48760545/how-to-know-when-the-user-changes-the-song-with-the-spotify-api
+1536395028 Google Chrome :: https://www.google.com.sg/search?q=spotify+api+find+track+type&rlz=1C5CHFA_enSG730SG730&oq=spotify+api+find+track+type&aqs=chrome..69i57.26099j0j4&sourceid=chrome&ie=UTF-8
+1536395040 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-analysis/
+1536395058 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/tracks/get-track/
+1536395062 Google Chrome :: https://www.google.com.sg/search?q=spotify+api+find+track+type&rlz=1C5CHFA_enSG730SG730&oq=spotify+api+find+track+type&aqs=chrome..69i57.26099j0j4&sourceid=chrome&ie=UTF-8
+1536395070 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=E4eTW4KpM8HJvgS1gLPgAQ&q=spotify+api+find+track+category&oq=spotify+api+find+track+category&gs_l=psy-ab.3...3907.4827.0.6928.8.8.0.0.0.0.97.546.8.8.0....0...1c.1.64.psy-ab..0.7.476...33i22i29i30k1j33i160k1j33i13i21k1j33i21k1.0.B7cnt6Ine90
+1536395074 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=PYeTW7frHMr3vgTd34C4Ag&q=spotify+api+find+track+genre&oq=spotify+api+find+track+genre&gs_l=psy-ab.3..0i22i30k1.1717.2174.0.2336.5.5.0.0.0.0.82.313.5.5.0....0...1c.1.64.psy-ab..0.5.312....0.MK92BgVicAU
+1536395076 Spotify :: Spotify
+1536395086 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=PYeTW7frHMr3vgTd34C4Ag&q=spotify+api+find+track+genre&oq=spotify+api+find+track+genre&gs_l=psy-ab.3..0i22i30k1.1717.2174.0.2336.5.5.0.0.0.0.82.313.5.5.0....0...1c.1.64.psy-ab..0.5.312....0.MK92BgVicAU
+1536395092 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=QIeTW63-NKWOvQT5lZXQDQ&q=spotify+api+get+current+song+genre&oq=spotify+api+get+current+song+genre&gs_l=psy-ab.3..33i22i29i30k1.14457.18229.0.18312.13.11.1.1.1.0.81.615.10.10.0....0...1c.1.64.psy-ab..1.12.613...0j0i20i263k1j0i22i30k1j33i160k1.0.vpSRBdwa1F8
+1536395096 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+1536395172 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536395176 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+1536395180 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=1YSTW7CaA4nOvgT_9b-4Dg&q=spotify+listener+to+change+in+song+developer&oq=spotify+listener+to+change+in+song+developer&gs_l=psy-ab.3...4586.5887.0.6090.10.10.0.0.0.0.133.873.6j4.10.0....0...1c.1.64.psy-ab..0.9.818...33i160k1j33i21k1j33i13i21k1.0.7lCpAT_58kE
+1536395186 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=3YSTW8eAHYzjvgTSgpeAAw&q=spotify+api+get+track+genre&oq=get+track+genre&gs_l=psy-ab.3.1.0i22i30k1l2.717744.721003.0.723325.15.15.0.0.0.0.77.870.15.15.0....0...1c.1.64.psy-ab..0.15.859...0j35i39k1j0i67k1j0i131k1j0i20i263k1j0i10k1j0i22i10i30k1.0.tlEwS8TVFWY
+1536395190 Google Chrome :: https://developer.spotify.com/console/get-available-genre-seeds/
+1536395208 Google Chrome :: https://developer.spotify.com/console/tracks/
+1536395218 Google Chrome :: https://developer.spotify.com/console/get-audio-features-track/
+1536395222 Google Chrome :: https://developer.spotify.com/console/tracks/
+1536395226 Google Chrome :: https://developer.spotify.com/console/get-track/
+1536395234 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536395264 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+1536395266 Google Chrome :: https://developer.spotify.com/console/get-track/
+1536395278 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536395306 Google Chrome :: https://developer.spotify.com/console/get-track/
+1536395320 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+1536395324 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536395352 Google Chrome :: https://developer.spotify.com/console/get-track/
+1536395396 Spotify :: Spotify
+1536395404 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536395430 Google Chrome :: https://developer.spotify.com/console/get-track/
+1536395458 Google Chrome :: https://www.raywenderlich.com/731-macos-development-for-beginners-part-1
+1536395460 Google Chrome :: http://localhost:8124/
+1536395462 Google Chrome :: https://github.com/karpathy/ulogme
+1536395464 Google Chrome :: http://karpathy.github.io/2014/08/03/quantifying-productivity/
+1536395466 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+1536395472 Google Chrome :: https://developer.spotify.com/documentation/web-api/
+1536395474 Google Chrome :: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+1536395480 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536395492 Google Chrome :: https://community.spotify.com/t5/Music-Chat/How-do-I-check-the-genre-of-a-song/td-p/1521053
+1536395558 Spotify :: Spotify
+1536395584 Google Chrome :: https://community.spotify.com/t5/Music-Chat/How-do-I-check-the-genre-of-a-song/td-p/1521053
+1536395664 Google Chrome :: http://organizeyourmusic.playlistmachinery.com/
+1536395688 Google Chrome :: https://community.spotify.com/t5/Music-Chat/How-do-I-check-the-genre-of-a-song/td-p/1521053
+1536395710 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536395716 Google Chrome :: https://stackoverflow.com/questions/41224070/spotify-javascript-api-getting-the-genre-of-a-song-in-a-playlist
+1536395752 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536395766 Google Chrome :: http://organizeyourmusic.playlistmachinery.com/
+1536395770 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536395772 Google Chrome :: https://developer.spotify.com/documentation/web-api/
+1536395774 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536395828 Spotify :: Spotify
+1536395840 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536395887 Spotify :: Spotify
+1536395888 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536395890 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536395894 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536395953 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536395954 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536395984 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396059 Google Chrome :: chrome://newtab/
+1536396064 Google Chrome :: https://www.rescuetime.com/
+1536396174 Google Chrome :: https://developer.spotify.com/console/get-users-currently-playing-track/
+1536396178 Google Chrome :: https://www.rescuetime.com/
+1536396196 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396236 Atom :: https://www.rescuetime.com/
+1536396236 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396238 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396332 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396364 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396366 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396376 Google Chrome :: https://www.google.com.sg/search?q=spotify+get+track+genre&rlz=1C5CHFA_enSG730SG730&oq=get+track+genre&aqs=chrome.1.69i57j0l2j69i64.5987j0j4&sourceid=chrome&ie=UTF-8
+1536396378 Google Chrome :: https://developer.spotify.com/console/get-track/
+1536396382 Google Chrome :: chrome://newtab/
+1536396386 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396390 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396470 Google Chrome :: chrome://newtab/
+1536396472 Google Chrome :: https://mail.google.com/mail/u/0/#inbox
+1536396476 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396478 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396491 Atom :: https://mail.google.com/mail/u/0/#inbox
+1536396492 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396521 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536396522 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396524 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396550 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536396552 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396558 Atom :: run_ulogme_osx.sh   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396560 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396566 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396572 Atom :: run_ulogme_osx.sh   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396574 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396802 Calendar
+1536396804 Calendar :: Calendar
+1536396812 Calendar
+1536396814 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396818 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396851 Telegram :: Telegram
+1536396856 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396858 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396978 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536396986 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536397354 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536397600 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536397612 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536397766 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536397790 Atom
+1536397848 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398086 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398098 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398102 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398106 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398117 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398118 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398254 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398256 Atom :: ulogme_osx.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398258 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398261 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398262 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398266 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398268 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398280 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398282 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398284 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398302 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398304 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398340 Atom :: ulogme_serve.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398510 Atom :: export_events.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398520 Atom :: render_settings.js   ~/Documents/Projects/FBhack/fbhackathon2018
+1536398522 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536401835 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536401911 Terminal :: ulogme   sleep   ulogme.sh   99 24
+1536420754 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536420758 Terminal :: ulogme   sleep   ulogme.sh   80 24
+1536420760 Terminal :: ulogme   -bash   69 36
+1536420766 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536420790 Terminal :: ulogme   -bash   69 36
+1536420794 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536420800 Terminal :: ulogme   -bash   69 36
+1536420809 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536420816 Terminal :: ulogme   -bash   69 36
+1536420833 Google Chrome :: https://www.pythonforbeginners.com/error-handling/python-try-and-except
+1536420836 Google Chrome :: https://www.google.com.sg/search?q=EOF&rlz=1C5CHFA_enSG730SG730&oq=EOF&aqs=chrome..69i57j69i60l3j0l2.475j0j4&sourceid=chrome&ie=UTF-8
+1536420842 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536420876 Terminal :: ulogme   -bash   69 36
+1536420880 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536420928 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421049 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421054 Atom :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421054 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421066 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421103 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421111 Terminal :: ulogme   -bash   69 36
+1536421114 Terminal :: ulogme   git pull   69 36
+1536421125 Terminal :: ulogme   -bash   69 36
+1536421157 Terminal :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421158 Terminal :: ulogme   -bash   69 36
+1536421170 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421182 Terminal :: ulogme   -bash   69 36
+1536421202 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421232 Terminal :: ulogme   -bash   69 36
+1536421234 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421235 Atom :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421236 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421267 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018/tree/master/webcam_analysis
+1536421268 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421281 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421282 Terminal :: ulogme   -bash   69 36
+1536421312 Terminal :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421312 Terminal :: ulogme   -bash   69 36
+1536421346 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421370 Google Chrome :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421373 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421375 Atom :: https://github.com/beverlybiwenlow/fbhackathon2018
+1536421376 Terminal :: ulogme   -bash   69 36
+1536421378 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421384 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421407 Finder :: ulogme
+1536421412 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536421414 Telegram
+1536421416 Terminal :: ulogme   -bash   69 36
+1536421418 Finder :: ulogme
+1536421424 Finder :: fbhackathon2018
