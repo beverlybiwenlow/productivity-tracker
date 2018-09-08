@@ -9,6 +9,7 @@ import time
 import csv
 
 from keras.models import load_model
+from scipy.spatial import distance as dist
 
 from utils.datasets import get_labels
 from utils.inference import detect_faces
@@ -30,7 +31,6 @@ model_points = np.array([
     (225.0, 170.0, -135.0),      # Right eye right corne
     (-150.0, -150.0, -125.0),    # Left Mouth corner
     (150.0, -150.0, -125.0)      # Right mouth corner
-
 ])
 
 
@@ -50,24 +50,52 @@ dist_coeffs = np.zeros((4, 1))  # Assuming no lens distortion
 # function to get head pose
 
 
-def get_head_pose(shape):
-    image_pts = np.float32([shape[17], shape[21], shape[22], shape[26], shape[36],
-                            shape[39], shape[42], shape[45], shape[31], shape[35],
-                            shape[48], shape[54], shape[57], shape[8]])
+def eye_aspect_ratio(eye):
+    # compute the euclidean distances between the two sets of
+    # vertical eye landmarks (x, y)-coordinates
+    A = dist.euclidean(eye[1], eye[5])
+    B = dist.euclidean(eye[2], eye[4])
 
-    _, rotation_vec, translation_vec = cv2.solvePnP(object_pts, image_pts, cam_matrix, dist_coeffs)
+    # compute the euclidean distance between the horizontal
+    # eye landmark (x, y)-coordinates
+    C = dist.euclidean(eye[0], eye[3])
 
-    reprojectdst, _ = cv2.projectPoints(reprojectsrc, rotation_vec, translation_vec, cam_matrix,
-                                        dist_coeffs)
+    # compute the eye aspect ratio
+    ear = (A + B) / (2.0 * C)
 
-    reprojectdst = tuple(map(tuple, reprojectdst.reshape(8, 2)))
+    # return the eye aspect ratio
+    return ear
 
-    # calc euler angle
-    rotation_mat, _ = cv2.Rodrigues(rotation_vec)
-    pose_mat = cv2.hconcat((rotation_mat, translation_vec))
-    _, _, _, _, _, _, euler_angle = cv2.decomposeProjectionMatrix(pose_mat)
+# function to check if eyes open
 
-    return reprojectdst, euler_angle
+
+def get_eyes(shape, rgb_image):
+
+    (lStart, lEnd) = face_utils.FACIAL_LANDMARKS_IDXS["left_eye"]
+    (rStart, rEnd) = face_utils.FACIAL_LANDMARKS_IDXS["right_eye"]
+
+    EYE_AR_THRESH = 0.2
+    EYE_AR_CONSEC_FRAMES = 3
+
+    leftEye = shape[lStart:lEnd]
+    rightEye = shape[rStart:rEnd]
+    leftEAR = eye_aspect_ratio(leftEye)
+    rightEAR = eye_aspect_ratio(rightEye)
+
+    # average the eye aspect ratio together for both eyes
+    ear = (leftEAR + rightEAR) / 2.0
+
+    leftEyeHull = cv2.convexHull(leftEye)
+    rightEyeHull = cv2.convexHull(rightEye)
+    cv2.drawContours(rgb_image, [leftEyeHull], -1, (0, 255, 0), 1)
+    cv2.drawContours(rgb_image, [rightEyeHull], -1, (0, 255, 0), 1)
+
+    if ear < EYE_AR_THRESH:
+        # eyes closed
+        return 0.
+    else:
+        # eyes open
+        return 1.
 
 
 def main():
@@ -104,9 +132,10 @@ def main():
     emotion_window = []
 
     RATE = 10
-    emotions_weight = [2, 2, 2, 2, 2, 2, 1]
+    emotions_weight = [2, 2, 2, 3, 2, 3, 1]
     cur_emotions = np.zeros(7)
     cur_gaze = np.zeros(3)
+    cur_eyes = 0.
 
     gaze_csv = open('webcam_data.csv', 'w')
 
@@ -115,9 +144,11 @@ def main():
         ret, frame = cap.read()
         if i == 0:
             print('saving!')
-            gaze_rate = np.argmax(cur_gaze)
-            emotions_rate = np.argmax(cur_emotions)
-            gaze_csv.write('{},{},{}\n'.format(int(time.time()), gaze_rate, emotions_rate))
+            gaze_val = np.argmax(cur_gaze)
+            emotions_val = np.argmax(cur_emotions)
+            eyes_val = cur_eyes / RATE >= 0.5
+            gaze_csv.write('{},{},{},{}\n'.format(
+                int(time.time()), gaze_val, emotions_val, eyes_val))
             cur_emotions = np.zeros(7)
             cur_gaze = np.zeros(3)
         i = (i + 1) % RATE
@@ -129,7 +160,8 @@ def main():
             if showFaceDirection:
                 # get facial directions
                 if len(face_rects) > 0:
-                    shape = predictor(frame, face_rects[0])
+                    # get gaze
+                    shape = predictor(gray_image, face_rects[0])
                     shape = face_utils.shape_to_np(shape)
                     image_points = np.float32([shape[30], shape[8], shape[36], shape[45], shape[48],
                                                shape[54]])
@@ -149,7 +181,7 @@ def main():
                     threshold1 = 0.3
                     threshold2 = 0.2
                     if normed_dist > threshold1:
-                        cur_gaze[2] += 1
+                        cur_gaze[0] += 1
                         if viz:
                             cv2.line(rgb_image, p1, p2, (0, 255, 0), 10)
                     elif normed_dist > threshold2:
@@ -157,18 +189,22 @@ def main():
                         if viz:
                             cv2.line(rgb_image, p1, p2, (0, 255, 255), 5)
                     else:
-                        cur_gaze[0] += 1
+                        cur_gaze[2] += 1
                         if viz:
                             cv2.line(rgb_image, p1, p2, (255, 0, 0), 2)
+
+                    # get eyes
+                    cur_eyes += get_eyes(shape, rgb_image)
+
                 else:
-                    cur_gaze[2] += 1
+                    cur_gaze[0] += 1
 
             # get emotions
             if showEmotions:
                 faces = detect_faces(face_detection, gray_image)
                 if len(faces) == 0:
                     cur_emotions[6] += 1
-                for face_coordinates in faces:
+                for face_coordinates in faces[:1]:
                     x1, x2, y1, y2 = apply_offsets(face_coordinates, emotion_offsets)
                     gray_face = gray_image[y1:y2, x1:x2]
                     try:
@@ -214,7 +250,7 @@ def main():
 
             if viz:
                 cv2.imshow("demo", rgb_image)
-            cv2.waitKey(50)
+            # cv2.waitKey(50)
             if cv2.waitKey(1) & 0xFF == ord('q'):
                 break
 
