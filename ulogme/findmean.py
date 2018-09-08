@@ -1,5 +1,6 @@
 import csv
 import re
+import numpy
 
 def assignCategory(activity):
     cat_list = ["Work", "Social Networking","Entertainment","Miscellaneous"]
@@ -75,7 +76,10 @@ with open('training.csv','w') as csvfile:
                     timestamp = curr_k_line[0:9]
                     keystrokes = curr_k_line[len(curr_k_line)-6:len(curr_k_line)-3].lstrip()
                     print(timestamp)
-                    filewriter.writerow([timestamp, category, activity, keystrokes])
+                    gaze_loc = numpy.random.choice(numpy.arange(3), p=[0.2, 0.1, 0.7])
+                    emotion = numpy.random.choice(numpy.arange(7), p=[0.04, 0.005, 0.005, 0.04, 0.005, 0.005, 0.9])
+                    eyes_open = True if numpy.random.choice(numpy.arange(2), p=[0.1, 0.9]) == 1 else False
+                    filewriter.writerow([timestamp, category, activity, keystrokes,gaze_loc,emotion,eyes_open])
                     # increase curr_k_index
                     curr_k_index +=1
             except IndexError:

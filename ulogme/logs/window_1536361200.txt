@@ -427,3 +427,109 @@
 1536427936 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
 1536427966 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
 1536427993 Terminal :: ulogme   -bash   108 36
+1536428040 Terminal :: ulogme   git-remote-https   git pull   108 36
+1536428042 Terminal :: ulogme   -bash   108 36
+1536428046 Terminal :: ulogme   git-remote-https   git push origin master   108 36
+1536428052 Terminal :: ulogme   -bash   108 36
+1536428054 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428058 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428066 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428088 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428090 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428092 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428144 Google Chrome :: https://web.whatsapp.com/
+1536428156 Atom :: webcam_data.csv   ~/Downloads
+1536428182 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=JAWUW5HiOcvbvATBmKXgBQ&q=regex+substrings&oq=regex+substrings&gs_l=psy-ab.3..0i22i30k1l10.4056.10292.0.10436.24.16.4.4.4.0.137.1247.12j4.16.0....0...1c.1.64.psy-ab..0.24.1266...0j35i39k1j0i131k1j0i67k1j0i20i263k1j0i10k1.0.l05LennprA0
+1536428188 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=MAWUW6T_F8WNvQSj1rjAAw&q=random+with+probability+python&oq=random+with+pro&gs_l=psy-ab.3.0.0i20i263k1j0l4j0i22i30k1l5.847090.849380.0.850340.15.14.0.1.1.0.86.794.14.14.0....0...1c.1.64.psy-ab..0.15.789...35i39k1j0i67k1j0i131k1.0.8G10ui7OvGA
+1536428190 Google Chrome :: https://stackoverflow.com/questions/4265988/generate-random-numbers-with-a-given-numerical-distribution
+1536428198 Atom :: webcam_data.csv   ~/Downloads
+1536428202 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428227 Atom :: https://stackoverflow.com/questions/4265988/generate-random-numbers-with-a-given-numerical-distribution
+1536428228 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428234 Atom :: https://stackoverflow.com/questions/4265988/generate-random-numbers-with-a-given-numerical-distribution
+1536428236 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428258 Atom :: webcam_data.csv   ~/Downloads
+1536428266 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428267 Atom :: https://stackoverflow.com/questions/4265988/generate-random-numbers-with-a-given-numerical-distribution
+1536428268 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428277 Atom :: https://stackoverflow.com/questions/4265988/generate-random-numbers-with-a-given-numerical-distribution
+1536428278 Atom :: webcam_data.csv   ~/Downloads
+1536428280 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428298 Google Chrome :: https://stackoverflow.com/questions/4265988/generate-random-numbers-with-a-given-numerical-distribution
+1536428300 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428322 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=MAWUW6T_F8WNvQSj1rjAAw&q=random+with+probability+python&oq=random+with+pro&gs_l=psy-ab.3.0.0i20i263k1j0l4j0i22i30k1l5.847090.849380.0.850340.15.14.0.1.1.0.86.794.14.14.0....0...1c.1.64.psy-ab..0.15.789...35i39k1j0i67k1j0i131k1.0.8G10ui7OvGA
+1536428328 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=mwiUW9ixF8KAvgSm6a7QDw&q=random+50%2F50+python&oq=random+50&gs_l=psy-ab.3.0.0i20i263k1l2j0l8.175.2697.0.4307.9.8.0.0.0.0.304.1116.0j2j2j1.5.0....0...1c.1.64.psy-ab..4.5.1112...35i39k1j0i67k1j0i131i67k1.0.1x4w_Kal1vw
+1536428332 Google Chrome :: https://stackoverflow.com/questions/591253/when-using-random-which-form-returns-an-equal-50-chance
+1536428357 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428406 Atom :: webcam_data.csv   ~/Downloads
+1536428410 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428514 Atom :: webcam_data.csv   ~/Downloads
+1536428532 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428706 Atom :: webcam_data.csv   ~/Downloads
+1536428710 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428738 Terminal :: ulogme   git-remote-https   git push origin master   108 36
+1536428742 Terminal :: ulogme   -bash   108 36
+1536428750 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428756 Terminal :: ulogme   -bash   108 36
+1536428782 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428784 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428786 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428794 Atom :: webcam_data.csv   ~/Downloads
+1536428796 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428798 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428800 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428802 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428808 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428846 Terminal :: ulogme   python findmean.py   108 36
+1536428857 Terminal :: ulogme   -bash   108 36
+1536428861 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428877 Google Chrome :: chrome://newtab/
+1536428880 Google Chrome :: https://www.google.com.sg/search?q=a+and+p+must+have+same+size&rlz=1C5CHFA_enSG730SG730&oq=a+and+p+must+h&aqs=chrome.0.0j69i57j0j69i64l3.2968j0j1&sourceid=chrome&ie=UTF-8
+1536428887 Google Chrome :: https://github.com/numpy/numpy/issues/5344
+1536428892 Google Chrome :: https://www.google.com.sg/search?q=a+and+p+must+have+same+size&rlz=1C5CHFA_enSG730SG730&oq=a+and+p+must+h&aqs=chrome.0.0j69i57j0j69i64l3.2968j0j1&sourceid=chrome&ie=UTF-8
+1536428908 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=UAuUW7OKIoPivASKw7TgBw&q=%22a+and+p+must+have+same+size%22&oq=%22a+and+p+must+have+same+size%22&gs_l=psy-ab.3..0i22i30k1l2.12365.13925.0.14222.2.2.0.0.0.0.61.115.2.2.0....0...1c.1.64.psy-ab..0.2.112...0j0i7i30k1.0.PgM_PXziCkY
+1536428924 Google Chrome :: https://github.com/msmbuilder/msmbuilder/issues/1087
+1536428934 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428948 Terminal :: ulogme   -bash   108 36
+1536428955 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428959 Terminal :: ulogme   -bash   108 36
+1536428960 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536428974 Terminal :: ulogme   -bash   108 36
+1536428990 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429010 Terminal :: ulogme   sleep   ulogme.sh   80 24
+1536429012 Terminal :: ulogme   -bash   108 36
+1536429047 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=UAuUW7OKIoPivASKw7TgBw&q=%22a+and+p+must+have+same+size%22&oq=%22a+and+p+must+have+same+size%22&gs_l=psy-ab.3..0i22i30k1l2.12365.13925.0.14222.2.2.0.0.0.0.61.115.2.2.0....0...1c.1.64.psy-ab..0.2.112...0j0i7i30k1.0.PgM_PXziCkY
+1536429060 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429086 Terminal :: ulogme   -bash   108 36
+1536429106 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429128 Terminal :: ulogme   -bash   108 36
+1536429130 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429136 Terminal :: ulogme   -bash   108 36
+1536429138 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429140 Terminal :: ulogme   -bash   108 36
+1536429146 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429148 Terminal :: ulogme   -bash   108 36
+1536429162 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429169 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=UAuUW7OKIoPivASKw7TgBw&q=%22a+and+p+must+have+same+size%22&oq=%22a+and+p+must+have+same+size%22&gs_l=psy-ab.3..0i22i30k1l2.12365.13925.0.14222.2.2.0.0.0.0.61.115.2.2.0....0...1c.1.64.psy-ab..0.2.112...0j0i7i30k1.0.PgM_PXziCkY
+1536429176 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=bAuUW_-jFpa8vwTS4K-ABA&q=numpy.random.choice&oq=numpy.random&gs_l=psy-ab.3.1.0l10.126509.131616.0.133032.12.9.0.3.3.0.89.583.9.9.0....0...1c.1.64.psy-ab..0.12.581...35i39k1j0i131k1j0i67k1.0.uyrhDOYQIdo
+1536429179 Google Chrome :: https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html
+1536429222 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429238 Google Chrome :: https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html
+1536429268 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429280 Terminal :: ulogme   -bash   108 36
+1536429282 Terminal :: ulogme   python findmean.py   108 36
+1536429285 Terminal :: ulogme   -bash   108 36
+1536429286 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429292 Terminal :: ulogme   python findmean.py   108 36
+1536429295 Terminal :: ulogme   -bash   108 36
+1536429298 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429308 Terminal :: https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html
+1536429308 Terminal :: ulogme   -bash   108 36
+1536429315 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429316 Atom :: webcam_data.csv   ~/Downloads
+1536429318 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429324 Atom :: webcam_data.csv   ~/Downloads
+1536429326 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429370 Terminal :: ulogme   -bash   108 36
+1536429378 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536429378 Terminal :: ulogme   -bash   108 36
