@@ -1,4 +1,14 @@
 import csv
+import re
+
+def assignCategory(activity):
+    cat_list = ["Work", "Social Networking","Entertainment","Miscellaneous"]
+    matchers = {"Work":"(github|stackoverflow|developer|api|Atom|Terminal)", "Social Networking":"(Telegram|whatsapp|facebook)","Entertainment":"(youtube|Spotify)","Miscellaneous":"(Calendar|mail|google.com)"}
+    for category in cat_list:
+        if re.search(matchers[category], activity):
+            return category
+    return "Miscellaneous"
+
 
 
 # read file as separate line without newline and add "key" to keystroke_lines
@@ -34,7 +44,7 @@ for line in keystroke_lines:
 
 with open('training.csv','w') as csvfile:
     filewriter = csv.writer(csvfile, delimiter=',',quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    filewriter.writerow(["Timestamp", "Category", "Keystrokes"])
+    filewriter.writerow(["Timestamp", "Category", "Activity", "Keystrokes"])
     curr_k_index = 0
     for i in range (0,len(w_index)-1):
         # get activity from w line
@@ -47,6 +57,10 @@ with open('training.csv','w') as csvfile:
             #print(activity)
 
         # seperate activity according to category
+        if activity == "Google Chrome":
+            activity = curr_w_line[11:len(curr_w_line)-1]
+
+        category = assignCategory(activity)
 
         if(w_index[i+1] == (w_index[i]+1)):
             print(i)
@@ -61,7 +75,7 @@ with open('training.csv','w') as csvfile:
                     timestamp = curr_k_line[0:9]
                     keystrokes = curr_k_line[len(curr_k_line)-6:len(curr_k_line)-3].lstrip()
                     print(timestamp)
-                    filewriter.writerow([timestamp, activity, keystrokes])
+                    filewriter.writerow([timestamp, category, activity, keystrokes])
                     # increase curr_k_index
                     curr_k_index +=1
             except IndexError:

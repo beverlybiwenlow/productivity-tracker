@@ -282,3 +282,148 @@
 1536421416 Terminal :: ulogme   -bash   69 36
 1536421418 Finder :: ulogme
 1536421424 Finder :: fbhackathon2018
+1536424938 Finder :: ulogme-master
+1536424940 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424948 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424954 Atom :: keyfreq_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424956 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424963 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424966 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424968 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424979 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424987 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536424992 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425032 Atom :: ulogme.sh   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425034 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425036 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425045 Google Chrome :: https://stackoverflow.com/questions/12276507/run-script-on-mac-prompt-permission-denied
+1536425052 Google Chrome :: https://www.google.com.sg/search?q=switch+python&rlz=1C5CHFA_enSG730SG730&oq=switch+python&aqs=chrome..69i57j0l5.4735j0j4&sourceid=chrome&ie=UTF-8
+1536425054 Google Chrome :: https://jaxenter.com/implement-switch-case-statement-python-138315.html
+1536425056 Google Chrome :: https://web.whatsapp.com/
+1536425060 Google Chrome :: https://jaxenter.com/implement-switch-case-statement-python-138315.html
+1536425097 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425194 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425222 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425507 Google Chrome :: https://jaxenter.com/implement-switch-case-statement-python-138315.html
+1536425520 Google Chrome :: https://docs.python.org/3/library/re.html
+1536425522 Google Chrome :: https://www.google.com.sg/search?q=regex+python&rlz=1C5CHFA_enSG730SG730&oq=regex+&aqs=chrome.2.69i57j69i60j0l4.2428j0j4&sourceid=chrome&ie=UTF-8
+1536425526 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536425538 Google Chrome :: https://www.google.com.sg/search?q=regex+python&rlz=1C5CHFA_enSG730SG730&oq=regex+&aqs=chrome.2.69i57j69i60j0l4.2428j0j4&sourceid=chrome&ie=UTF-8
+1536425542 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=Jf6TW52WH8nmvgSy0IqwCA&q=regex+python+finding&oq=regex+python+finding&gs_l=psy-ab.3..0i22i30k1l10.277.1731.0.1852.8.7.0.1.1.0.103.586.5j2.7.0....0...1c.1.64.psy-ab..0.8.583...0j0i67k1j0i13i30k1j0i8i13i30k1.0.dWgoIHSflYc
+1536425544 Google Chrome :: https://stackoverflow.com/questions/2260105/simple-python-regex-find-pattern
+1536425562 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=Jf6TW52WH8nmvgSy0IqwCA&q=regex+python+finding&oq=regex+python+finding&gs_l=psy-ab.3..0i22i30k1l10.277.1731.0.1852.8.7.0.1.1.0.103.586.5j2.7.0....0...1c.1.64.psy-ab..0.8.583...0j0i67k1j0i13i30k1j0i8i13i30k1.0.dWgoIHSflYc
+1536425566 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=RP6TW-v9O5uSvQSz7KfAAw&q=regex+python+finding+pattern&oq=regex+python+finding+pattern&gs_l=psy-ab.3..0i22i30k1l5.1144.2315.0.2506.8.8.0.0.0.0.108.626.7j1.8.0....0...1c.1.64.psy-ab..0.8.621...33i22i29i30k1.0.p9zfmnEcuyg
+1536425574 Google Chrome :: https://stackoverflow.com/questions/2260105/simple-python-regex-find-pattern
+1536425592 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=RP6TW-v9O5uSvQSz7KfAAw&q=regex+python+finding+pattern&oq=regex+python+finding+pattern&gs_l=psy-ab.3..0i22i30k1l5.1144.2315.0.2506.8.8.0.0.0.0.108.626.7j1.8.0....0...1c.1.64.psy-ab..0.8.621...33i22i29i30k1.0.p9zfmnEcuyg
+1536425602 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=Xv6TW_vfBMrgvATzjq_oAg&q=categorise+string+based+on+regex&oq=categorise+string+based+on+regex&gs_l=psy-ab.3...629.6945.0.7164.32.30.0.2.2.0.152.2339.24j5.29.0....0...1c.1.64.psy-ab..1.24.1751...0j35i39k1j0i131k1j0i131i67k1j0i67k1j0i10k1j0i22i30k1j0i22i10i30k1j33i160k1j33i21k1j33i22i29i30k1.0.yW13DmnST-Y
+1536425604 Google Chrome :: https://stackoverflow.com/questions/33672545/tagging-categorizing-a-string-column-using-multiple-matching-patterns
+1536425680 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=Xv6TW_vfBMrgvATzjq_oAg&q=categorise+string+based+on+regex&oq=categorise+string+based+on+regex&gs_l=psy-ab.3...629.6945.0.7164.32.30.0.2.2.0.152.2339.24j5.29.0....0...1c.1.64.psy-ab..1.24.1751...0j35i39k1j0i131k1j0i131i67k1j0i67k1j0i10k1j0i22i30k1j0i22i10i30k1j33i160k1j33i21k1j33i22i29i30k1.0.yW13DmnST-Y
+1536425684 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=gf6TW4r6KIvwvgSs_JOQAQ&q=categorise+string+based+on+regex+python&oq=categorise+string+based+on+regex+python&gs_l=psy-ab.3...105.974.0.1599.6.6.0.0.0.0.198.402.1j2.3.0....0...1c.1.64.psy-ab..3.2.301...33i22i29i30k1.0.7FDn3JWKmOA
+1536425686 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536425832 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425836 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536425981 Atom :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536425982 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426042 Atom :: Project   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426042 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426058 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426112 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536426114 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426130 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426132 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426140 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426142 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426554 Terminal :: fbhackathon2018   -bash   108 36
+1536426570 Terminal :: ulogme   -bash   108 36
+1536426584 Atom :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536426586 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426601 Terminal :: ulogme   -bash   108 36
+1536426604 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426620 Terminal :: ulogme   -bash   108 36
+1536426624 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426626 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426634 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426742 Terminal :: ulogme   -bash   108 36
+1536426780 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426836 Atom :: Edit
+1536426838 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426850 Terminal :: ulogme   -bash   108 36
+1536426872 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426877 Terminal :: ulogme   -bash   108 36
+1536426882 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426882 Terminal :: ulogme   -bash   108 36
+1536426884 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426888 Terminal :: ulogme   -bash   108 36
+1536426892 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426922 Terminal :: ulogme   -bash   108 36
+1536426924 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426926 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426930 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426960 Terminal :: ulogme   -bash   108 36
+1536426962 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426972 Terminal :: ulogme   -bash   108 36
+1536426977 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426978 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426986 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536426988 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427011 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427014 Google Chrome :: http://docs.python.org/howto/regex.html
+1536427016 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536427069 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427086 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427100 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427104 Google Chrome :: chrome://newtab/
+1536427106 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427140 Terminal :: ulogme   -bash   108 36
+1536427154 Google Chrome :: chrome://newtab/
+1536427156 Google Chrome :: https://www.google.com.sg/search?q=unsupported+operand+type(s)+for+%7C%3A+%27str%27+and+%27str%27&rlz=1C5CHFA_enSG730SG730&oq=unsupported+operand+type(s)+for+%7C%3A+%27str%27+and+%27str%27&aqs=chrome..69i57.155j0j1&sourceid=chrome&ie=UTF-8
+1536427158 Google Chrome :: https://stackoverflow.com/questions/15235703/typeerror-unsupported-operand-types-for-str-and-str
+1536427176 Google Chrome :: https://www.google.com.sg/search?q=unsupported+operand+type(s)+for+%7C%3A+%27str%27+and+%27str%27&rlz=1C5CHFA_enSG730SG730&oq=unsupported+operand+type(s)+for+%7C%3A+%27str%27+and+%27str%27&aqs=chrome..69i57.155j0j1&sourceid=chrome&ie=UTF-8
+1536427184 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=kwSUW98Qydu8BJ_EoYAN&q=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&oq=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&gs_l=psy-ab.3..33i22i29i30k1.4250.5514.0.5721.6.6.0.0.0.0.72.388.6.6.0....0...1c.1.64.psy-ab..0.6.382...0j0i22i30k1j33i10k1.0.T4ZhdUauC2o
+1536427191 Google Chrome :: https://stackoverflow.com/questions/32505956/python-re-compile-unsupported-operand-types-for-str-and-int
+1536427202 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=kwSUW98Qydu8BJ_EoYAN&q=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&oq=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&gs_l=psy-ab.3..33i22i29i30k1.4250.5514.0.5721.6.6.0.0.0.0.72.388.6.6.0....0...1c.1.64.psy-ab..0.6.382...0j0i22i30k1j33i10k1.0.T4ZhdUauC2o
+1536427218 Atom :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=kwSUW98Qydu8BJ_EoYAN&q=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&oq=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&gs_l=psy-ab.3..33i22i29i30k1.4250.5514.0.5721.6.6.0.0.0.0.72.388.6.6.0....0...1c.1.64.psy-ab..0.6.382...0j0i22i30k1j33i10k1.0.T4ZhdUauC2o
+1536427220 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427280 Google Chrome :: https://bytes.com/topic/python/answers/493796-problem-my-regex
+1536427286 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=kwSUW98Qydu8BJ_EoYAN&q=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&oq=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+regex&gs_l=psy-ab.3..33i22i29i30k1.4250.5514.0.5721.6.6.0.0.0.0.72.388.6.6.0....0...1c.1.64.psy-ab..0.6.382...0j0i22i30k1j33i10k1.0.T4ZhdUauC2o
+1536427302 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=rwSUW5WPLcXhvgSnmrXwCA&q=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+&oq=unsupported+operand+type%28s%29+for+%7C%3A+%27str%27+and+%27str%27+&gs_l=psy-ab.3..0i71k1l5.12475.12607.0.12899.2.2.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..2.0.0....0.pVdv6Lyh4bw
+1536427312 Google Chrome :: https://www.google.com.sg/search?rlz=1C5CHFA_enSG730SG730&ei=JAWUW5HiOcvbvATBmKXgBQ&q=regex+substrings&oq=regex+substrings&gs_l=psy-ab.3..0i22i30k1l10.4056.10292.0.10436.24.16.4.4.4.0.137.1247.12j4.16.0....0...1c.1.64.psy-ab..0.24.1266...0j35i39k1j0i131k1j0i67k1j0i20i263k1j0i10k1.0.l05LennprA0
+1536427324 Google Chrome :: http://www.regexlab.com/en/regref.htm
+1536427336 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427366 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427376 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427380 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536427428 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427430 Atom :: https://docs.python.org/3/howto/regex.html
+1536427432 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427444 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536427451 Atom :: https://docs.python.org/3/howto/regex.html
+1536427452 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427466 Terminal :: ulogme   -bash   108 36
+1536427468 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427470 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427484 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427540 Terminal :: ulogme   -bash   108 36
+1536427548 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427556 Terminal :: ulogme   -bash   108 36
+1536427568 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427578 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536427592 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427664 Atom :: https://docs.python.org/3/howto/regex.html
+1536427664 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427666 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536427671 Google Chrome :: https://stackoverflow.com/questions/40375637/git-add-command-fails-and-keeps-running
+1536427674 Google Chrome :: https://docs.python.org/3/howto/regex.html
+1536427676 Google Chrome :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427703 Atom :: https://stackoverflow.com/questions/9623811/how-to-classify-categorize-strings-according-to-regular-expression-rules-in-pyth
+1536427704 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427794 Terminal :: ulogme   -bash   108 36
+1536427796 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427798 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427892 Terminal :: ulogme   -bash   108 36
+1536427897 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427898 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427934 Atom :: window_1536361200.txt   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427936 Atom :: findmean.py   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427966 Atom :: training.csv   ~/Documents/Projects/FBhack/fbhackathon2018
+1536427993 Terminal :: ulogme   -bash   108 36
