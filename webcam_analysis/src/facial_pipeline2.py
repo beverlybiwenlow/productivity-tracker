@@ -138,8 +138,8 @@ def main():
     cur_eyes = 0.
 
     gaze_csv = open('webcam_data.csv', 'w')
-
-    i = 0
+    gaze_csv.write('timestamp,gaze_loc,emotion,eyes_open\n')
+    i = -1
     while cap.isOpened():
         ret, frame = cap.read()
         if i == 0:
@@ -149,6 +149,7 @@ def main():
             eyes_val = cur_eyes / RATE >= 0.5
             gaze_csv.write('{},{},{},{}\n'.format(
                 int(time.time()), gaze_val, emotions_val, eyes_val))
+            cur_eyes = 0.
             cur_emotions = np.zeros(7)
             cur_gaze = np.zeros(3)
         i = (i + 1) % RATE
