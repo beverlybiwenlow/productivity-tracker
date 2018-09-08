@@ -45,7 +45,7 @@ for line in keystroke_lines:
 
 with open('training.csv','w') as csvfile:
     filewriter = csv.writer(csvfile, delimiter=',',quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    filewriter.writerow(["Timestamp", "Category", "Activity", "Keystrokes"])
+    filewriter.writerow(["Timestamp", "Category", "Activity", "Keystrokes", "Gaze","Emotion","Eyes"])
     curr_k_index = 0
     for i in range (0,len(w_index)-1):
         # get activity from w line
