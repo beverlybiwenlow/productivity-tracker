@@ -5,6 +5,9 @@ from pymongo import MongoClient
 client = MongoClient("mongodb://admin:password123@ds149252.mlab.com:49252/fbhackathon")
 db = client['fbhackathon']
 
+# scrape logs
+
+
 # JSON to store
 page = open("logs/log.json", 'r')
 parsed = json.loads(page.read())
