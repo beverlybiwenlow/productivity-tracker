@@ -101,7 +101,7 @@ def get_eyes(shape, rgb_image):
 def main():
     showEmotions = True
     showFaceDirection = True
-    viz = True
+    viz = False
 
     # return
     cap = cv2.VideoCapture(0)
@@ -132,13 +132,13 @@ def main():
     emotion_window = []
 
     RATE = 10
-    emotions_weight = [2, 2, 2, 3, 2, 3, 1]
+    emotions_weight = [5, 5, 5, 5, 5, 5, 1]
     cur_emotions = np.zeros(7)
     cur_gaze = np.zeros(3)
     cur_eyes = 0.
 
     gaze_csv = open('webcam_data.csv', 'w')
-    gaze_csv.write('timestamp,gaze_loc,emotion,eyes_open\n')
+    gaze_csv.write('timestamp,gaze_loc,emotion,eyes_open,eyes_aspect_ratio\n')
     i = -1
     while cap.isOpened():
         ret, frame = cap.read()
@@ -147,8 +147,8 @@ def main():
             gaze_val = np.argmax(cur_gaze)
             emotions_val = np.argmax(cur_emotions)
             eyes_val = cur_eyes / RATE >= 0.5
-            gaze_csv.write('{},{},{},{}\n'.format(
-                int(time.time()), gaze_val, emotions_val, eyes_val))
+            gaze_csv.write('{},{},{},{},{}\n'.format(
+                int(time.time()), gaze_val, emotions_val, eyes_val, cur_eyes / RATE))
             cur_eyes = 0.
             cur_emotions = np.zeros(7)
             cur_gaze = np.zeros(3)
