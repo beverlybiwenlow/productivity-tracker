@@ -1,0 +1,4 @@
+// This is the JSON that is to be stored in Mongo
+
+// testing. ignore below
+{"testvalzz": {"first": 3, "second":44}}
